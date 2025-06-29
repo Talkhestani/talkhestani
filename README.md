@@ -37,9 +37,7 @@
 ---
 
 ### 🔗 Connect with Me
-<p align="center">
-  Telegram: [@talkhestani](https://t.me/talkhestani)
-</p>
+Telegram: [@Talkhestani](https://t.me/talkhestani)
 
 ---
 
