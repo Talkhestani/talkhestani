@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Hossein Alidadi Talkhestani</h1>
-<h3 align="center">Lover Developer</h3>
+<h3 align="center">Programming's Lover</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=talkhestani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
