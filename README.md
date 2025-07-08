@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">🎯 Goals: change the world<br>🎲 Fun fact: I wanted to change the world, but God did not give me the source code.</p>
 
 ###
 
